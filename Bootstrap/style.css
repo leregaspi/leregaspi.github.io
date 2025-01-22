@@ -1,0 +1,29 @@
+.box{
+    
+    height: 100px;    
+    }
+    .box1{
+    background-color: darkkhaki;
+    }
+    .box2{
+    background-color: yellowgreen;
+    }
+    .box3{
+background-color: lightskyblue;
+    }
+    .box4{
+    background-color: lightgreen;
+    }
+    .box5{
+    background-color:khaki;
+    }
+
+    .box6{
+        background-color: lightblue;
+    }
+    .box7{
+        background-color: lightgreen;
+    }
+    .box-50{
+        height: 50px;
+    }
